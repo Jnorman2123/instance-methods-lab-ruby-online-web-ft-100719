@@ -1,5 +1,5 @@
 class Person
-  def talk 
+  def talk
 
-  end 
-end 
+  end
+end
